@@ -12,7 +12,7 @@ Use AWS Glue Crawlers to discover data structures and populate the AWS Glue Data
 Read information from the AWS Glue Data Catalog and leverage it for necessary data transformations.
 Convert CSV files to Parquet format.
 Load transformed data into Amazon S3.
-- **AWS Services to Use**
+
 - Amazon Athena
 - AWS Glue
 - AWS Glue Data Catalog
