@@ -13,12 +13,12 @@ Read information from the AWS Glue Data Catalog and leverage it for necessary da
 Convert CSV files to Parquet format.
 Load transformed data into Amazon S3.
 AWS Services to Use
-Amazon Athena
-AWS Glue
-AWS Glue Data Catalog
-AWS Glue Crawler
-Amazon S3
-IAM
+- Amazon Athena
+- AWS Glue
+- AWS Glue Data Catalog
+- AWS Glue Crawler
+- Amazon S3
+- IAM
 Concepts
 DynamicFrame: A data structure similar to an Apache Spark DataFrame, but with additional features that make it more suitable for data transformation processes in AWS Glue.
 DataFrame: A data structure that is similar to Apache Spark DataFrame, often used for data processing tasks but in the context of AWS Glue, it has extended capabilities.
