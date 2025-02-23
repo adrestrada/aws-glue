@@ -19,7 +19,7 @@ AWS Services to Use
 - AWS Glue Crawler
 - Amazon S3
 - IAM
-Concepts
+- **Concepts**
 DynamicFrame: A data structure similar to an Apache Spark DataFrame, but with additional features that make it more suitable for data transformation processes in AWS Glue.
 DataFrame: A data structure that is similar to Apache Spark DataFrame, often used for data processing tasks but in the context of AWS Glue, it has extended capabilities.
 Inner Join: A type of join operation in databases and data processing systems (such as SQL, Spark, etc.) used to combine rows from two tables based on a common condition.
